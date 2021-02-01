@@ -1,0 +1,3 @@
+id,name,image,imageurl,email,password,phone,date,address1,address2,city,state,zip,otp,status
+34,Rajan,image1,imageurl1,raan122@gmail.com,1122,0816855405,date1,address1,address2,city,state,zip,otp,0
+35,Sohan,image1,imageurl2,shu2222@gmail.com,3344,0126855405,date2,address1,address2,city,state,zip,otp,0

@@ -1,0 +1,14 @@
+{% extends 'layout.html' %}
+
+{% block otpForm %}
+    <div class="container">
+        <form method="post" style="margin-top: 40px;">
+            <div class="form-group">
+                <h3>{{msg}}</h3>
+                <label for="exampleInputEmail1">Enter your OTP below</label>
+                <input type="number" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name='otp'>
+            </div>
+            <button type="submit" class="btn btn-success">Submit</button>
+        </form>
+    </div>
+{% endblock %}
